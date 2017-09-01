@@ -1,4 +1,4 @@
-# Projeto-de-LM
+# Projeto-LM
 
 <br>
 <h1>Nome do projeto: Senna por um brasileiro</h1>
