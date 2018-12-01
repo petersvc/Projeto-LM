@@ -1,3 +1,2 @@
 # senna
-Projeto site do yuri
-magia negra
+Projeto site do livro Senna Por um Brasileiro
